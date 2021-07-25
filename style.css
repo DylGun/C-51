@@ -1,0 +1,29 @@
+body{
+    background-color: #72BAFF;
+}
+
+h1{
+    color: blueviolet;
+}
+
+.header{
+    background-color: coral;
+    display: flex;
+    justify-content: space-between;
+}
+
+p,h2{
+    text-align: center;
+    color: #5C003C;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.grid img{
+    border: 5px solid teal;
+    border-radius: 50px;
+}
